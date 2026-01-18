@@ -1,11 +1,11 @@
-title: Hermann Müller
+title: Erich Ollenhauer
 is-pinned-card: true 
 tags: advisor, centrist
-card-image: img/portraits/MüllerHermann.jpg
+card-image: img/portraits/erich-ollenhauer.jpg
 new-page: true
 view-if: muller_advisor = 1
 
-= Hermann Müller
+= Erich Ollenhauer                                                                                                                        
 
 
 Müller is a former [? if chancellor = "Müller": and current ?] Chancellor, and is a long-time <span style="color: #c00000;">**Social Democratic**</span> leader.
