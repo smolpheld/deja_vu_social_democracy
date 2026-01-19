@@ -1,7 +1,7 @@
 title: Otto Grotewohl
 is-pinned-card: true
 tags: advisor, centrist
-card-image: out/html/img/portraits/otto-grotewohl.png
+card-image: img/portraits/otto-grotewohl.png
 view-if: wels_advisor = 1
 new-page: true
 
