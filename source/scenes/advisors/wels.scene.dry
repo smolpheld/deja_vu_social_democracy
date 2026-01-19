@@ -1,11 +1,11 @@
-title: Otto Wels
+title: Otto Grotewohl
 is-pinned-card: true
 tags: advisor, centrist
-card-image: img/portraits/WelsOtto.jpg
+card-image: out/html/img/portraits/otto-grotewohl.png
 view-if: wels_advisor = 1
 new-page: true
 
-= Otto Wels
+= Otto Grotewohl
 
 Wels is the long-time chairman of the <span style="color: #c00000;">**SPD**</span>. He is a gifted organizer and a member of the centrist faction.
 
