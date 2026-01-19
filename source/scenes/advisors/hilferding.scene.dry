@@ -1,10 +1,10 @@
 title: Wilhelm Hoegner
 is-pinned-card: true
 tags: advisor, centrist
-card-image: out/html/img/portraits/wilhelm-hoegner.png
+card-image: img/portraits/wilhelm-hoegner.png
 view-if: hilferding_advisor = 1
 new-page: true
-#face-image: out/html/img/portraits/wilhelm-hoegner.png
+#face-image: img/portraits/wilhelm-hoegner.png
 
 = Wilhelm Hoegner
 
