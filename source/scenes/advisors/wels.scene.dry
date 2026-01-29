@@ -1,16 +1,13 @@
 title: Otto Grotewohl
 is-pinned-card: true
-tags: advisor, centrist
+tags: advisor, left
 card-image: img/portraits/otto-grotewohl.png
 view-if: wels_advisor = 1
 new-page: true
 
 = Otto Grotewohl
 
-Wels is the long-time chairman of the <span style="color: #c00000;">**SPD**</span>. He is a gifted organizer and a member of the centrist faction.
-
-- @clear_agenda
-- @party_discipline
+Grotewohl is a long-time chairman of the <span style="color: #c00000;">**SPD**</span>'s <span style="color: #9b0000;">left</span>. He is considered a friend of the <span style="color: #700000;">**KPD**</span> in our party. 
 - @emergency_fundraising
 - @money_printer
 - @stimulation
