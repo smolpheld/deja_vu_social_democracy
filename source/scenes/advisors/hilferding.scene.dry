@@ -8,7 +8,7 @@ new-page: true
 
 = Wilhelm Hoegner
 
-Hoegner is a jurist and the most prominent <span style="color: #c00000;">social democratic</span> leader in <span style="color: #00CCFF;">Bavaria</span>. He is a former [? if bavaria_leader = "Hoegner": and current ?] Minister-President of his home state, having previously served in a few regional ministries.
+Hoegner is a jurist and the most prominent <span style="color: #c00000;">social democratic</span> leader in <span style="color: #00CCFF;">Bavaria</span>. He is a former [? if prussia_leader = "Braun": and current ?] Minister-President of his home state, having previously served in a few regional ministries.
 - @catholics_rally
 - @support_peoples_party
 - @build_peoples_party
