@@ -9,28 +9,9 @@ new-page: true
 
 Grotewohl is a long-time leader of the <span style="color: #c00000;">**SPD**</span>'s <span style="color: #9b0000;">left</span>. He is particularly friendly to the declining <span style="color: #700000;">**KPD**</span>, as a fellow ideologue of <span style="color: #c00000;">Marxist</span> <span style="color: #9b0000;">orthodoxy</span>. 
 
+- @party_discipline
 - @emergency_fundraising
-- @money_printer
-- @stimulation
-- @building_the_left
-- @kpd_cooperation
 - @root: Return to main
-
-@clear_agenda
-title: Clear the agenda
-subtitle: Removes all cards from the hand.
-choose-if: advisor_action_timer = 0
-unavailable-subtitle: [? if advisor_action_timer > 0 : [+ advisor_action_timer +] months before next advisor action. ?]
-on-arrival: {!
-Q.advisor_action_timer = 6;
-if (Q.difficulty >= 0) {
-    window.dendryUI.dendryEngine.state.currentHands['main'] = [];
-} else {
-    window.dendryUI.dendryEngine.state.currentHands['main.main_easy'] = [];
-}
-!}
-
-All items from our agenda have been cleared.
 
 @party_discipline
 title: Party Discipline
