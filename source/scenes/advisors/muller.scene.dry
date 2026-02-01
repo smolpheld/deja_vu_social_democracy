@@ -51,7 +51,6 @@ on-arrival: advisor_action_timer = 6; coalition_dissent -= 1 if spd_in_governmen
 
 We have improved our relations with the [? if z_party_name != "CVP": <span style="color: #000000;">Center</span>?][? if z_party_name == "CVP": <span style="color: #000000;">**CVP**</span>?][? if not lvp_formed:, <span style="color: #D3C24D;">**[+ ddp_name +]**</span>[? if dvp_exist:, and <span style="color: #C0A054;">**DVP**</span>?]?][? if lvp_formed:&nbsp;and <span style="color: #FFCC00;">**LVP**</span>?], and reduced tensions with the coalition.
 
-
 @toleration
 title: Defending Toleration
 subtitle: Ollenhauer supports the toleration arrangement with the bourgeois parties.
