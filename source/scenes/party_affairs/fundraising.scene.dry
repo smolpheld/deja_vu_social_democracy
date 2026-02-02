@@ -3,7 +3,7 @@ new-page: true
 view-if: fundraising_timer <= 0
 on-arrival: fundraising_timer = 12
 is-card: true
-card-image: img/dgldnhnd.webp
+card-image: img/spdposterdiegoldenehand.jpg
 tags: party_affairs
 
 = Fundraising
