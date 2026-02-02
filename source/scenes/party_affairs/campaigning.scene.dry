@@ -4,7 +4,7 @@ view-if: not rubicon or campaigning_timer <= 0
 on-arrival: month_actions += 1; campaigning_timer += 2 if rubicon
 max-visits: 36
 is-card: true
-card-image: img/spdcampaign.jpeg
+card-image: img/spdcampaign.jpg
 frequency: 100
 tags: party_affairs
 
