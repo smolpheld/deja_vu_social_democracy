@@ -317,7 +317,7 @@ blockquote+blockquote.attribution {
 }
 
 .tab_button {
-  font-family: "Futura",sans-serif;
+  font-family: "Minion Pro", Georgia, serif;
   background-color: var(--tab-color);
   color: var(--text-color);
   /*float: left;*/
