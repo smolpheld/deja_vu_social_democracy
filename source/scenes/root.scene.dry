@@ -32,7 +32,7 @@ on-arrival: {!
 Q.started = 1;
 // time elapsed (in months)
 Q.time = 1;
-Q.year = 1928;
+Q.year = 1958;
 Q.month = 1;
 Q.week = 0;
 Q.week_checked = 0;
@@ -51,7 +51,7 @@ Q.old_demographics = 0;
 Q.use_decimals = 0;
 
 // party resources
-Q.resources = 2;
+Q.resources = 3;
 // party dues
 Q.dues = 5;
 
@@ -121,10 +121,10 @@ Q.moderate_plan_adopted = 0;
 // organizations
 
 // inter-party relations
-Q.z_relation = 50;
-Q.kpd_relation = 25;
-Q.ddp_relation = 60;
-Q.dvp_relation = 35;
+Q.z_relation = 70;
+Q.kpd_relation = 35;
+Q.ddp_relation = 70;
+Q.dvp_relation = 45;
 // DNVP and NSDAP are invariably hostile
 Q.dnvp_relation = 5;
 Q.nsdap_relation = 0;
