@@ -783,10 +783,10 @@ Q.prussian_reichsexekution_timer = 0;
 Q.in_election = 1;
 Q.in_election_prussia = 1;
 Q.next_election_time_prussia = 5;
-Q.next_election_year_prussia = 1928;
+Q.next_election_year_prussia = 1958;
 Q.next_election_month_prussia = 5;
-Q.next_election_year = 1928;
-Q.next_election_month = 12;
+Q.next_election_year = 1958;
+Q.next_election_month = 5;
 Q.next_election_time = 12;
 // government affairs timers
 Q.campaigning_timer = 0;
@@ -1259,9 +1259,9 @@ Q.resources = 3;
 Q.dues = 3;
 Q.base_dues = 3;
 Q.rb_strength = 2000;
-Q.z_relation = 41;
-Q.kpd_relation = 21;
-Q.dvp_relation = 31;
+Q.z_relation = 81;
+Q.kpd_relation = 81;
+Q.dvp_relation = 81;
 Q.ddp_relation = 55;
 Q.budget = 2;
 !}
