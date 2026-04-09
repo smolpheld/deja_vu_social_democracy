@@ -1,4 +1,4 @@
-title: 1932
+title: 1962
 subtitle: A new year 
 on-arrival: {!
 // increase NSDAP vote share 
@@ -11,7 +11,7 @@ if (Q.works_program && Q.works_program >= 2) {
 // moved demographic changes to post_event
 !}
 tags: event
-view-if: year = 1932 and month = 1 
+view-if: year = 1962 and month = 1 
 priority: 2
 max-visits: 1
 
