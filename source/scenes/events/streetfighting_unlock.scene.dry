@@ -1,6 +1,6 @@
 title: Streetfighting
 new-page: true
-view-if: year >= 1930
+view-if: year >= 2000
 max-visits: 1
 tags: event
 
