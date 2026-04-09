@@ -1,4 +1,4 @@
-title: 1933
+title: 1963
 subtitle: A new year 
 on-arrival: {!
 if (Q.works_program && Q.works_program >= 2) {
@@ -7,7 +7,7 @@ if (Q.works_program && Q.works_program >= 2) {
 }
 !}
 tags: event
-view-if: year = 1933 and month = 1 and not rubicon
+view-if: year = 1963 and month = 1 and not rubicon
 priority: 2
 max-visits: 1
 
